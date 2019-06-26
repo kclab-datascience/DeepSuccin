@@ -1,5 +1,5 @@
 # DeepSuccin
-DeepSuccin : Prediction of protein succinylation sites with deep learning model. 
+DeepSuccin : Prediction of protein succinylation sites with deep learning model. Devoloped in KC lab.
 # Requirement
   Backend = Tensorflow <br/>
   Keras <br/>
