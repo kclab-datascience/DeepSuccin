@@ -7,9 +7,8 @@ DeepSuccin : Prediction of protein succinylation sites with deep learning model.
   Biopython <br/>
   Sklearn <br/>
   Imblearn <br/>
-  Matplotlib <br/>
  # Dataset
- Dataset is in FASTA format which includes protein window size of 33. Test dataset is provided.
+ Dataset is in FASTA format which includes protein window size of 33. Test dataset is provided. There are two dataset for positive and negative examples.
  # Model
  The best model has been included -> model.h5
  # Prediction for given test dataset
